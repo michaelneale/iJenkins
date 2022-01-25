@@ -1,4 +1,6 @@
 iJenkins
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3bdb6c0e-69e5-4a00-8725-7eec33d7e48c.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/ijenkins?orgId=451115019187)  
 ========
 
 On iTunes here:
